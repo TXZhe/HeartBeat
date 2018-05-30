@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+    <item
+        android:id="@+id/nav_liked"
+        android:icon="@drawable/navagation_i_like"
+        android:title="我喜欢的" />
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@drawable/navagation_selfset"
+            android:title="个人资料" />
+        <item
+            android:id="@+id/nav_addfre"
+            android:icon="@drawable/navagation_addfred"
+            android:title="好友管理" />
+        <item
+            android:id="@+id/nav_set"
+            android:icon="@drawable/navagation_set"
+            android:title="设置" />
+            </group>
+
+        <item android:title="">
+            <menu>
+                <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/navagation_out"
+                android:title="退出当前账号" />
+            </menu>
+        </item>
+
+</menu>

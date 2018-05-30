@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">心弦</string>
+    <string name="title_activity_main_map">发现音乐</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_liked">我喜欢的</string>
+    <string name="bmob_key">0eebed2c34d7070b3e5a33779f542103</string>
+
+</resources>

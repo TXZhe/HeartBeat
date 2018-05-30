@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="url1">http://wl.baidu190.com/1428702600/691f75227b6a645659da4128f7478145.mp3</string>
+    <string name="url2">http://wl.baidu190.com/1471798964/2017085c76e4abefcf42e05bdbfa306db5971c.mp3</string>
+    <string name="url3">http://wl.baidu190.com/1461648564/CBBAB01346ABFE14FC5A0DBC014B68F3.mp3</string>
+    <string name="url4">http://wl.baidu190.com/1470923696/2016081e566e9338db96240de04ffbea5b49c9.mp3</string>
+    <string name="url5">http://sc1.111ttt.com/2015/5/07/23/100232205036.mp3</string>
+    <string name="url6">http://sc1.111ttt.com/2015/1/02/06/95061706559.mp3</string>
+    <string name="url7">http://sc1.111ttt.com/2015/1/02/08/95081703021.mp3</string>
+    <string name="url8">http://sc1.111ttt.com/2015/1/03/20/96201054428.mp3</string>
+    <string name="url9">http://sc1.111ttt.com/2015/5/11/20/104202002104.mp3</string>
+
+    <string name="title1">Viva La Vida</string>
+    <string name="title2">secret base ~君がくれたもの~</string>
+    <string name="title3">七里香</string>
+    <string name="title4">大梦想家</string>
+    <string name="title5">给你</string>
+    <string name="title6">青春的约定</string>
+    <string name="title7">恋するフォーチュンクッキー</string>
+    <string name="title8">宠爱</string>
+    <string name="title9">我是大主宰</string>
+
+    <string name="performer1">Coldplay</string>
+    <string name="performer2">茅野愛衣 / 戸松遥 /早見沙織歌</string>
+    <string name="performer3">周杰伦</string>
+    <string name="performer4">TFBoys</string>
+    <string name="performer5">Snh48易嘉爱</string>
+    <string name="performer6">Snh48</string>
+    <string name="performer7">AKB48</string>
+    <string name="performer8">TFBoys</string>
+    <string name="performer9">黄子韬</string>
+
+</resources>
